@@ -1,7 +1,6 @@
 # 肥宅快乐水 - 模板
 
 [![Coverage Status](https://coveralls.io/repos/github/zhangxiangliang/cola-composer-package-template/badge.svg)](https://coveralls.io/github/zhangxiangliang/cola-composer-package-template)
-
 [![Build Status](https://travis-ci.org/zhangxiangliang/cola-composer-package-template.svg?branch=master)](https://travis-ci.org/zhangxiangliang/cola-composer-package-template)
 
 这是 `肥宅快乐水` 项目的 composer 包模板文件, 用于 `小二` 自己创建项目包所使用。
