@@ -1,4 +1,4 @@
-# 肥宅快乐水 - 模板
+# Composer Package 模板
 
 [![Coverage Status](https://coveralls.io/repos/github/zhangxiangliang/cola-composer-package-template/badge.svg)](https://coveralls.io/github/zhangxiangliang/cola-composer-package-template)
 [![Build Status](https://travis-ci.org/zhangxiangliang/cola-composer-package-template.svg?branch=master)](https://travis-ci.org/zhangxiangliang/cola-composer-package-template)
