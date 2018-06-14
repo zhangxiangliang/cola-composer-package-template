@@ -1,0 +1,27 @@
+{
+    "name": "newone/cola",
+    "description": "template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ZHANGXIANGLIANG",
+            "email": "admin@taroball.net"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "~6.0",
+        "satooshi/php-coveralls": "^2.0",
+        "jakub-onderka/php-parallel-lint": "^1.0",
+        "squizlabs/php_codesniffer": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "NewOne\\Cola\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\": "test/"
+        }
+    }
+}
